@@ -1,0 +1,5 @@
+*.exe
+*.o
+.vscode/
+bill.txt
+bills.txt

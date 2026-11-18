@@ -1,0 +1,7 @@
+1|Veg Sandwich|50.00|Food
+2|Veg Burger|80.00|Food
+3|Masala Dosa|70.00|Food
+4|Veg Thali|120.00|Food
+5|Tea|15.00|Baverage
+6|Coffee|25.00|Baverage
+7|Cold Coffee|60.00|Baverage
